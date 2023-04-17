@@ -6,7 +6,7 @@ In order to improve the accuracy of the ViT architecture in image recognition ta
 
 ### Author
 
-[Yuyao Ge](https://github.com/GeYuYao-hub), Lizhe Chen](https://github.com/574118090)
+[Yuyao Ge](https://github.com/GeYuYao-hub), [Lizhe Chen](https://github.com/574118090)
 
 ### Architecture of Data and Channel efficient vision Transformer.
 
