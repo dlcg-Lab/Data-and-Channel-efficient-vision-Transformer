@@ -6,11 +6,11 @@ In order to improve the accuracy of the ViT architecture in image recognition ta
 
 ### Architecture of Data and Channel efficient vision Transformer.
 
-<img align="center" src="fig/2.png"/>
+ <div align="center"> <img src="fig/2.png" /> </div>
 
 ### Diagram of DCT Transformer Encoder
 
-<img align="center" src="fig/3.png"/>
+ <div align="center"> <img src="fig/3.png" /> </div>
 
 ### Compared with other architecture
-<img align="center" src="fig/1.png"/>
+ <div align="center"> <img src="fig/1.png" /> </div>
